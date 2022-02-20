@@ -10,7 +10,9 @@ Se ha usado clasificación binaria para el problema de predicción ya que la var
 
 La librería principal que se ha usado para las predicciones es "Sklearn" junto a pandas y numpy para el tratamiento del dataset.
 
-Para el entrenamiento se ha usado un modelo supervisado de machine learning con "Logistic Regression" por ser un problema de clasificación binaria.
+**Para el entrenamiento se ha usado un modelo supervisado de machine learning con "Logistic Regression" por ser un problema de clasificación binaria.**
+
+**En las pruebas de validación se ha conseguido un 96% de aciertos**
 
 Pasos que se han hecho para la construcción del modelo ML (Se puede ver en ModelML.ipynb):
 
