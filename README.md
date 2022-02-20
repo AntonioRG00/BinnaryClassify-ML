@@ -25,6 +25,7 @@ Pasos que se han hecho para la construcción del modelo ML **(Se puede ver en Mo
 # Instalación y despliegue
 
 **1. Una vez clonado el repositorio, en la raíz del proyecto lanzar "poetry install" para instalar las dependecias que requiere el proyecto.**
+
 **2. Lanzar con python el archivo "FlaskApi.py" para levantar el microservicio (Hay que estar dentro del directorio project ya que usa rutas relativas).**
 
 # Pesos de las columnas para la predicción
