@@ -5,7 +5,7 @@ import numpy as np
 
 app = Flask("FlaskApi")
 
-with open('../model/churn-model.pck', 'rb') as f:
+with open('../model/churn-model.pkl', 'rb') as f:
     dv, model = pickle.load(f)
 
 def predict_single(data):
