@@ -14,7 +14,7 @@ La librería principal que se ha usado para las predicciones es "Sklearn" junto 
 
 **En las pruebas de validación se ha conseguido un 96% de aciertos**
 
-Pasos que se han hecho para la construcción del modelo ML (Se puede ver en ModelML.ipynb):
+Pasos que se han hecho para la construcción del modelo ML **(Se puede ver en ModelML.ipynb)**:
 
 1. Preparación de los datos
 2. Análisis de la importancia de las propiedades
